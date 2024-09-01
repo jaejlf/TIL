@@ -1,5 +1,5 @@
 # TIL
-![image](https://github.com/user-attachments/assets/e70e8861-7bf3-4e2d-bfaa-6c6b37371b50)
+![image](https://github.com/user-attachments/assets/e9f9257d-7eff-4026-a554-a74205927a36)
 
 ## 🌱 Today I Learned
 
