@@ -2,6 +2,8 @@
 #### Java
 - [[Java] 날짜(Date)와 시간(Time)을 처리하기](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20%EB%82%A0%EC%A7%9C(Date)%EC%99%80%20%EC%8B%9C%EA%B0%84(Time)%EC%9D%84%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
 - [[Java] 불변 객체(Immutable)로 사이드 이펙트 방지하기](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20%EB%B6%88%EB%B3%80%20%EA%B0%9D%EC%B2%B4(Immutable)%EB%A1%9C%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8%20%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B0.md)
+- [[Java] String 클래스로 문자열 다루기](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20String%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
+- [[Java] List를 Map으로 변환하기](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20List%EB%A5%BC%20Map%EC%9C%BC%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
 
 #### Spring
 - [[JPA] JPA 변경 감지(Dirty Checking)](https://github.com/jaejlf/TIL/blob/main/Spring/%5BJPA%5D%20JPA%20%EB%B3%80%EA%B2%BD%20%EA%B0%90%EC%A7%80(Dirty%20Checking).md)
