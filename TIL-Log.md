@@ -31,3 +31,8 @@
 
 #### DAY 9
 - [[Java] List를 Map으로 변환하기](https://github.com/jaejlf/TIL/issues/17#issue-2514155345)
+
+#### DAY 10
+- [[Java] JVM Heap 메모리 설정 옵션](https://github.com/jaejlf/TIL/issues/20#issue-2530030184)
+- [[Java] JVM, JRE, JDK](https://github.com/jaejlf/TIL/issues/20#issuecomment-2424740122)
+
