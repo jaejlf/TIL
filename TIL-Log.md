@@ -36,3 +36,7 @@
 - [[Java] JVM Heap 메모리 설정 옵션](https://github.com/jaejlf/TIL/issues/20#issue-2530030184)
 - [[Java] JVM, JRE, JDK](https://github.com/jaejlf/TIL/issues/20#issuecomment-2424740122)
 
+#### DAY 11
+- [[Java] JVM 메모리 영역](https://github.com/jaejlf/TIL/issues/22#issue-2602952042)
+- [[Java] 참조(Reference)](https://github.com/jaejlf/TIL/issues/22#issuecomment-2429775910)
+
