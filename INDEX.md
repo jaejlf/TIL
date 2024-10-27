@@ -5,6 +5,8 @@
 - [[Java] String 클래스로 문자열 다루기](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20String%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 - [[Java] List를 Map으로 변환하기](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20List%EB%A5%BC%20Map%EC%9C%BC%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
 - [[Java] JVM, JRE, JDK](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20JVM%2C%20JRE%2C%20JDK.md)
+- [[Java] Java 프로세스 메모리 영역](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20Java%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%98%81%EC%97%AD.md)
+- [[Java] GC(Garbage Collection)](https://github.com/jaejlf/TIL/blob/main/Java/%5BJava%5D%20GC(Garbage%20Collection).md)
 
 #### Spring
 - [[JPA] JPA 변경 감지(Dirty Checking)](https://github.com/jaejlf/TIL/blob/main/Spring/%5BJPA%5D%20JPA%20%EB%B3%80%EA%B2%BD%20%EA%B0%90%EC%A7%80(Dirty%20Checking).md)
