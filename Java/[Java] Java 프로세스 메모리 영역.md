@@ -1,4 +1,4 @@
-# [Java] Java 프로세스 메모리 영역 - (1) JVM 메모리
+# [Java] Java 프로세스 메모리 영역
 
 ![image](https://github.com/user-attachments/assets/81315026-3615-44b7-9714-98cd7b8faf26)
 
