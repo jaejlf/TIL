@@ -24,4 +24,4 @@
 - [[MySQL] UPSERT를 처리하는 방법](https://github.com/jaejlf/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%5BMySQL%5D%20UPSERT%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 #### 인프라
-- [[인프라] 가상화](https://github.com/jaejlf/TIL/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/%EA%B0%80%EC%83%81%ED%99%94.md)
+- [[인프라] 가상화](https://github.com/jaejlf/TIL/blob/main/%EC%9D%B8%ED%94%84%EB%9D%BC/%5B%EC%9D%B8%ED%94%84%EB%9D%BC%5D%20%EA%B0%80%EC%83%81%ED%99%94.md)
