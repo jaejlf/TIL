@@ -1,4 +1,5 @@
 # [Java] String 클래스로 문자열 다루기
+
 ## Intro
 ```java
 char[] hello1 = new char[]{'h', 'e', 'l', 'l', 'o'}';
@@ -7,7 +8,7 @@ String hello3 = "hello"; // 내부적으로 new String("hello")로 처리된다.
 ```
 - Java에서는 아래와 같은 방법으로 문자열을 만들 수 있다.
 - String 클래스에서는 내부적으로 byte[] 배열에 문자 데이터를 보관한다. (`private final byte[] value;`)
-> cf. Java 9 이전에는 `char[]` 배열에 문자 데이트를 보관하였다.
+> ✅ Java 9 이전에는 `char[]` 배열에 문자 데이트를 보관하였다.
 > - char는 2byte인데, 영어/숫자는 보통 1byte로 표현 가능하여, 단순 영어/숫자로 된 경우 1byte를 사용하고 그렇지 않은 경우에는 2byte인 UTF-16 인코딩을 사용한다. (메모리를 더 효율적으로 사용하기 위함.)
 - String은 `클래스`이므로, `참조형`이다. 
 - Java 언어에서 편의를 위해 `+` 연산자를 제공한다. (`+` 연산자를 통해 문자열 연산이 이루어지도록 지원)
@@ -38,6 +39,11 @@ String str4 = "hello";
 ### String 풀(Pool)
 
 ![image](https://github.com/user-attachments/assets/a9418eba-6222-4c1f-907c-b1e6a952b273)
+
+> 🏊‍♀️  `Runtime 상수 풀 != String 풀`
+> - Runtime 상수 풀은 메서드 영역에, String 풀은 Heap 영역에 위치한다.
+> - Java7부터 String 풀은 Heap 영역으로 이동하였다. (즉, GC의 대상!)
+> - String 풀에 위치하는 문자열은 GC의 대상이 될 가능성이 낮기는 하나, Heap 영역에 위치하므로 필요하지 않은 경우 GC 대상이 될 수 있다!
 
 <br>
 

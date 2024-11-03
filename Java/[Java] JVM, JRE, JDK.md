@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/cdf4341e-88c0-40b8-acd2-9f9147470347)
 
-### JVM (Java Virtual Machine)
+### JVM(Java Virtual Machine)
 -  Java 프로그램을 컴파일한, `바이트 코드를 실행할 수 있는` 플랫폼 종속적인 가상 환경 (사실은 그냥 프로그램!)
  -  컴퓨터들은 모두 다른 기계어를 쓰기 때문에, 각각에 맞는 기계어로 번역을 해주어야한다. JVM은 각 시스템에 맞게 바이트 코드를 기계어로 번역해주는 역할을 한다. (바이트 코드는 프로그래밍 언어와 기계어의 중간 정도)
 - JVM이 바이트 코드를 `그때그때` 기계어로 번역해준다. 이렇게 그때그때 컴파일하는 방식을 `JIT(Just In Time) 컴파일` 이라고 한다. 
@@ -11,7 +11,7 @@
 
 <br>
 
-### JRE (Java Runtime Environment)
+### JRE(Java Runtime Environment)
 - JVM + Library
 - Java 프로그램을 `실행`하기 위한 환경 
 - java.util 등 Java 프로그램 실행에 필요한 기본 `라이브러리`가 포함된 환경 (개발 관련 도구는 포함 X)
@@ -20,7 +20,7 @@
 
 <br>
 
-### JDK (Java Development Kit) 
+### JDK(Java Development Kit) 
 - JRE + 개발툴(javac, jar, ...)
 - 주요 JDK로는 Oracle JDK, Amazon Corretto가 있다.
 
