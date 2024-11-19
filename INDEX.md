@@ -43,3 +43,7 @@
 - [[이펙티브 자바] 아이템 3. private 생성자나 열거 타입으로 싱글톤임을 보증하라](https://github.com/jaejlf/TIL/issues/23) 
 - [[이펙티브 자바] 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/jaejlf/TIL/issues/24) 
 - [[이펙티브 자바] 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/jaejlf/TIL/issues/25) 
+- [[이펙티브 자바] 아이템 6. 불필요한 객체 생성을 피하라](https://github.com/jaejlf/TIL/issues/26)
+- [[이펙티브 자바] 아이템 7. 다 쓴 객체 참조를 해제하라](https://github.com/jaejlf/TIL/issues/27)
+- [[이펙티브 자바] 아이템 8. finalizer와 cleaner 사용을 피하라](https://github.com/jaejlf/TIL/issues/28)
+- [[이펙티브 자바] 아이템 9. try-finally보다는 try-with-resources를 사용하라](https://github.com/jaejlf/TIL/issues/29)
