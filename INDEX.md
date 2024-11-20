@@ -15,6 +15,7 @@
 
 #### Spring
 - [[Spring] JPA 변경 감지(Dirty Checking)](https://github.com/jaejlf/TIL/issues/10) 
+- [[Spring] JPA @Query와 @Modifying](https://github.com/jaejlf/TIL/issues/32)
 
 <br>
 
@@ -22,6 +23,7 @@
 - [[MySQL] 새로운 파티션 테이블을 추가할 때, 기존 파티션 테이블에 락이 걸리는 현상 (feat. 메타데이터 락)](https://github.com/jaejlf/TIL/issues/5) 
 - [[MySQL] UPSERT를 처리하는 방법](https://github.com/jaejlf/TIL/issues/8) 
 - [[MySQL] InnoDB의 버퍼 풀과 언두 로그](https://github.com/jaejlf/TIL/issues/9) 
+- [[데이터베이스] DBCP 이해하기 (feat. HikariCP)](https://github.com/jaejlf/TIL/issues/31)
 
 <br>
 
@@ -47,3 +49,5 @@
 - [[이펙티브 자바] 아이템 7. 다 쓴 객체 참조를 해제하라](https://github.com/jaejlf/TIL/issues/27)
 - [[이펙티브 자바] 아이템 8. finalizer와 cleaner 사용을 피하라](https://github.com/jaejlf/TIL/issues/28)
 - [[이펙티브 자바] 아이템 9. try-finally보다는 try-with-resources를 사용하라](https://github.com/jaejlf/TIL/issues/29)
+- [[이펙티브 자바] 아이템 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/jaejlf/TIL/issues/33)
+- [[이펙티브 자바] 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/jaejlf/TIL/issues/34)
