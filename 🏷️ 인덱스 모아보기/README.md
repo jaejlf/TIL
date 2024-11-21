@@ -10,6 +10,7 @@
 - [[Java] Java 프로세스 메모리 영역](https://github.com/jaejlf/TIL/issues/17) 
 - [[Java] GC(Garbage Collection)](https://github.com/jaejlf/TIL/issues/18) 
 - [[Java] JVM Startup Parameter (feat. 메모리 설정)](https://github.com/jaejlf/TIL/issues/19) 
+- [[Java] 모든 클래스의 부모인 Object 클래스](https://github.com/jaejlf/TIL/issues/36)
 
 <br>
 
@@ -51,3 +52,4 @@
 - [[이펙티브 자바] 아이템 9. try-finally보다는 try-with-resources를 사용하라](https://github.com/jaejlf/TIL/issues/29)
 - [[이펙티브 자바] 아이템 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/jaejlf/TIL/issues/33)
 - [[이펙티브 자바] 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/jaejlf/TIL/issues/34)
+- [[이펙티브 자바] 아이템 12. toString을 항상 재정의하라](https://github.com/jaejlf/TIL/issues/37)
