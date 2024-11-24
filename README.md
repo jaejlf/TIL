@@ -7,7 +7,7 @@ _with… 넛츠… 화이팅..._
 
 <br>
 
-- TIL 기록 : 
+- TIL 기록 : [https://github.com/jaejlf/TIL/tree/main/🏃‍♀️‍➡️TIL 기록](https://github.com/jaejlf/TIL/tree/main/%F0%9F%8F%83%E2%80%8D%E2%99%80%EF%B8%8F%E2%80%8D%E2%9E%A1%EF%B8%8F%20TIL%20%EA%B8%B0%EB%A1%9D)
 - 전체 보기 : https://github.com/jaejlf/TIL/discussions
   
 | 카테고리 | 분류 |
