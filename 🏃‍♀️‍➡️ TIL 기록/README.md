@@ -28,6 +28,7 @@
 - ☕ [[Java] 모든 클래스의 부모인 Object 클래스](https://github.com/jaejlf/TIL/discussions/45)
 - 🗃️ [[데이터베이스] DBCP 이해하기 (feat. HikariCP)](https://github.com/jaejlf/TIL/discussions/46)
 - 🪴 [[Spring] JPA @Query와 @Modifying](https://github.com/jaejlf/TIL/discussions/47)
+- ☕ [[Java] 접근 제어자 (public, protected, default, private)](https://github.com/jaejlf/TIL/discussions/76)
 - 🎣 [[이펙티브 자바] 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/jaejlf/TIL/discussions/59) 
 - 🎣 [[이펙티브 자바] 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/jaejlf/TIL/discussions/60) 
 - 🎣 [[이펙티브 자바] 아이템 3. private 생성자나 열거 타입으로 싱글톤임을 보증하라](https://github.com/jaejlf/TIL/discussions/61) 
@@ -40,3 +41,15 @@
 - 🎣 [[이펙티브 자바] 아이템 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/jaejlf/TIL/discussions/69)
 - 🎣 [[이펙티브 자바] 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/jaejlf/TIL/discussions/70)
 - 🎣 [[이펙티브 자바] 아이템 12. toString을 항상 재정의하라](https://github.com/jaejlf/TIL/discussions/71)
+- 🎣 [[이펙티브 자바] 아이템 13. clone 재정의는 주의해서 진행하라](https://github.com/jaejlf/TIL/discussions/72)
+- 🎣 [이펙티브 자바] 아이템 14. Comparable을 구현할지 고려하라
+- 🎣 [[이펙티브 자바] 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/jaejlf/TIL/discussions/77)
+- 🎣 [[이펙티브 자바] 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/jaejlf/TIL/discussions/78)
+- 🎣 [[이펙티브 자바] 아이템 17. 변경 가능성을 최소화하라](https://github.com/jaejlf/TIL/discussions/79)
+- 🎣 [[이펙티브 자바] 아이템 18. 상속보다는 컴포지션을 사용하라](https://github.com/jaejlf/TIL/discussions/80)
+- 🎣 [이펙티브 자바] 아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라
+- 🎣 [[이펙티브 자바] 아이템 20. 추상 클래스보다는 인터페이스를 우선하라](https://github.com/jaejlf/TIL/discussions/82)
+- 🎣 [이펙티브 자바] 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라
+- 🎣 [[이펙티브 자바] 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라](https://github.com/jaejlf/TIL/discussions/84)
+- 🎣 [[이펙티브 자바] 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/jaejlf/TIL/discussions/85)
+- 🎣 [[이펙티브 자바] 아이템 24. 멤버 클래스는 되도록 static으로 만들라](https://github.com/jaejlf/TIL/discussions/86)
