@@ -53,3 +53,17 @@
 - 🎣 [[이펙티브 자바] 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라](https://github.com/jaejlf/TIL/discussions/84)
 - 🎣 [[이펙티브 자바] 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/jaejlf/TIL/discussions/85)
 - 🎣 [[이펙티브 자바] 아이템 24. 멤버 클래스는 되도록 static으로 만들라](https://github.com/jaejlf/TIL/discussions/86)
+- 🎣 [이펙티브 자바] 아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라
+
+<br>
+
+#### 2024.12
+- ☕ [[Java] 제네릭(Generic)](https://github.com/jaejlf/TIL/discussions/97)
+- 🎣 [[이펙티브 자바] 아이템 26. 로 타입은 사용하지 말라](https://github.com/jaejlf/TIL/discussions/89)
+- 🎣 [[이펙티브 자바] 아이템 27. 비검사 경고를 제거하라](https://github.com/jaejlf/TIL/discussions/90) 
+- 🎣 [[이펙티브 자바] 아이템 28. 배열보다는 리스트를 사용하라](https://github.com/jaejlf/TIL/discussions/91)
+- 🎣 [[이펙티브 자바] 아이템 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/jaejlf/TIL/discussions/92)
+- 🎣 [[이펙티브 자바] 아이템 30. 이왕이면 제네릭 메서드로 만들라](https://github.com/jaejlf/TIL/discussions/93)
+- 🎣 [[이펙티브 자바] 아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/jaejlf/TIL/discussions/94)
+- 🎣 [[이펙티브 자바] 아이템 32. 제네릭과 가변 인수를 함께 쓸 때는 신중하라](https://github.com/jaejlf/TIL/discussions/95)
+- 🎣 [이펙티브 자바] 아이템 33. 타입 안전 이종 컨테이너를 고려하라
