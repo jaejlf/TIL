@@ -1,5 +1,9 @@
 # Today I Learned
 
+> 전체보기 : https://github.com/jaejlf/TIL/discussions
+
+<br>
+
 #### Java
 - ☕ [[Java] 클래스, 객체, 인스턴스](https://github.com/jaejlf/TIL/discussions/55)
 - ☕ [[Java] 변수의 종류 (feat. 래퍼 클래스)](https://github.com/jaejlf/TIL/discussions/137)
