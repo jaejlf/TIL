@@ -22,6 +22,7 @@
 #### Spring
 - 🪴 [[Spring] JPA @Query와 @Modifying](https://github.com/jaejlf/TIL/discussions/47)
 - 🪴 [[Spring] JPA 변경 감지(Dirty Checking)](https://github.com/jaejlf/TIL/discussions/54)
+- 🪴 [[Spring] 스프링 부트 Overview](https://github.com/jaejlf/TIL/discussions/152)
 
 #### 네트워크
 - 🔗 [[네트워크] 인코딩&디코딩](https://github.com/jaejlf/TIL/discussions/53)
@@ -47,3 +48,7 @@
 - 🎣 [[이펙티브 자바] 8장. 메서드 (아이템 49 ~ 56)](https://github.com/jaejlf/TIL/discussions/146)
 - 🎣 [[이펙티브 자바] 9장. 일반적인 프로그래밍 원칙 (아이템 57 ~ 68)](https://github.com/jaejlf/TIL/discussions/147)
 - 🎣 [[이펙티브 자바] 10장. 예외 (아이템 69 ~ 77)](https://github.com/jaejlf/TIL/discussions/148)
+
+> 컴퓨터 밑바닥의 비밀
+- 🐢 [컴퓨터 밑바닥의 비밀] Chapter 1. 프로그래밍 언어부터 프로그램 실행까지
+- 🐢 [[컴퓨터 밑바닥의 비밀] Chapter 2. 프로그램이 실행되는 동안 일어나는 일](https://github.com/jaejlf/TIL/discussions/151)
